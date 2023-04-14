@@ -1,0 +1,5 @@
+export { default as DashboardView } from './DashboardView/DashboardView'
+export { default as PatientDetailsView } from './PatientDetailsView/PatientDetailsView'
+export { default as PatientsView } from './PatientsView/PatientsView'
+export { default as AppointmentsView } from './AppointmentsView/AppointmentsView'
+export { default as SignInView } from './SignInView/SignInView'

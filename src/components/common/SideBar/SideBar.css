@@ -1,0 +1,21 @@
+.sidebar-icon {
+    margin-bottom: 40px;
+}
+
+.sidebar-icon-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar-icon {
+    color: #466694;
+}
+
+.sidebar-icon.active {
+    color: white;
+}
+
+.sidebar-img {
+    position: relative;
+    transform: translateX(-13%)
+}

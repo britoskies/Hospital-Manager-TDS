@@ -1,0 +1,4 @@
+/* To hide scrollbar from all browsers */
+.items-list-dashboard::-webkit-scrollbar {
+    display: none
+}
